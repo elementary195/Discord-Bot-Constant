@@ -1,5 +1,8 @@
 # Discord-Bot-Constant
- 
-Данный бот работает в связке с другим ботом - <a href="https://voicemaster.xyz/">VoiceMaster</a> (или иным другим, который предоставляет возможность, по клику, создавать голосовой канал).<br>
-Предназначение:<br>
-По нажатию на кнопку "Join to create" бот VoiceMaster, как уже было упомянуто, создаёт голосовой канал, куда затем перебрасывает пользователя, который его создал. Созданный мною бот позволяет дополнительно создать текстовый канал с одноименным названием голосового канала, причем делая его невидимым для других пользователей. Доступ к такому каналу имеют лишь пользователи, которые находятся в голосовом канале.
+
+
+This bot works in conjunction with another bot - VoiceMaster (or another one that provides the ability, by clicking, to create a new voice channel).
+Purpose:
+By clicking on the "Join to create" button, the VoiceMaster bot, as already mentioned, creates a voice channel, where it then transfers the user who created it. This bot allows you to additionally create a text channel with the same name as the voice channel, making it invisible to other users. Only users who are in the voice channel have access to such a channel.
+
+[![Demo CountPages alpha](https://j.gifs.com/WPKBlJ.gif)](https://youtu.be/IUrsE5za4E8)
